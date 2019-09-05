@@ -1,0 +1,7 @@
+{
+  "name": "appAgenda",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
